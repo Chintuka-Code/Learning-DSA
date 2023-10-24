@@ -1,3 +1,4 @@
+// Sum of N number
 function sum(n, total) {
   if (n === 0) {
     console.log(total);
