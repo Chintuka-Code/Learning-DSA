@@ -12,4 +12,4 @@ function findNonRepetitiveSentence(array) {
   return xor;
 }
 
-console.log(findNonRepetitiveSentence([2, 2, 1, 1, 3]));
+console.log(findNonRepetitiveSentence([7, 8, 1, 2, 1, 2, 8]));
